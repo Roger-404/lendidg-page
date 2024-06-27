@@ -3,4 +3,4 @@
 - CSS3
 - SCSS
 - JS
-Can you vie [my project](roger-404.github.io/lendidg-page/)
+Can you vie [my project](https://roger-404.github.io/lendidg-page/)
